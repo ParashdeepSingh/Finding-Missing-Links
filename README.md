@@ -41,14 +41,14 @@ pip install pandas networkx numpy matplotlib
 ---
 
 ## File Structure
-
+```
 project/
 ├── 1.py # Random Walk with Teleportation & Leaderboard
 ├── 2.py # Matrix Method for Missing Link Prediction
 ├── modified.xlsx # Input data (student impressions)
 ├── Project2.pdf 
 └── README.md
-
+```
 ---
 
 ## Usage
